@@ -1,5 +1,5 @@
 # Tesis-doctorado
-paper
+
 Figure 1. Morphological changes and thickening of the epidermis from 5mm to 8mm of Standard Lenght (SL) during development of zebrafish. A-C Post-embryonic zebrafish developmental stages 5, 6.5 and 8mm SL respectively, Scale bar 1mm. D, The bilayer of epidermal cells in larvae of 5mm is restricted by a thin collagen matrix in green between epidermis and muscle tissue. E, The epidermis of larvae of 6 mm SL with presence of specialized cells: the mucous goblet cells in the upper cell layer. F, In larvae of 8mm SL the epidermis is at least form by three or four layers specifically on dorsal of the trunk moreover the thickness of collagen matrix is bigger than juvenile larvae and large melanocytes cells underneath her were evident. The transcriptional factor p63 as regulator of epidermis and his distribution during larvae development. G, In 5 mm SL has been localized in the basal layer with a flat conformation. H, The p63 positive cells have distributed mostly along basal layer though with suprabasal positive cells. I, The p63 positive cells have kept for long time and they have spent both basal and suprabasal cells and they have been absent in the upper cell layer, D-I, 63X, Scale Bar 20 microns. 
 
 
